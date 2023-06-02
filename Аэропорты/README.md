@@ -1,11 +1,11 @@
 ДЗ аэропорты
 
-Датасеты для решения ДЗ находятся тут. Здесь же берем названия колонок.
+Датасеты для решения ДЗ находятся тут(https://openflights.org/data.html). Здесь же берем названия колонок.
 
 Внимание!!! Не забудьде про "\N" - обсуждали на занятиях.
 
-Аэропорты «Airport database» названия колонок начинается с Airport ID до Source. Прямая ссылка
-Маршрутная сеть «Route database» названия колонок начинается сAirline до Equipment. Прямая ссылка
+Аэропорты «Airport database» названия колонок начинается с Airport ID до Source. [Прямая ссылка](https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat)
+Маршрутная сеть «Route database» названия колонок начинается сAirline до Equipment. [Прямая ссылка](https://raw.githubusercontent.com/jpatokal/openflights/master/data/routes.dat)
 Внимание! Для работы из таблицы 1 используются ТОЛЬКО аэропорты с кодом IATA !!! Остальные строки можно удалить.
 
 Задание 1.
